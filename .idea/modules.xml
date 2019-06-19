@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cb-database-readwrite-demo.iml" filepath="$PROJECT_DIR$/.idea/cb-database-readwrite-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cb-readwrite-demo/cb-readwrite-demo.iml" filepath="$PROJECT_DIR$/cb-readwrite-demo/cb-readwrite-demo.iml" />
+    </modules>
+  </component>
+</project>
